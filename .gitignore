@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SpriteBuilder
 #
 *.ppng
@@ -28,6 +29,26 @@ xcuserdata
 *.xcuserstate
 *~.nib
 .DS_Store
+=======
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+>>>>>>> e37083b79e6c89bee06d57a48c4b2c7ab66cfe14
 
 # CocoaPods
 #
@@ -36,6 +57,7 @@ xcuserdata
 # http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control
 #
 # Pods/
+<<<<<<< HEAD
 
 
 # Misc
@@ -43,3 +65,5 @@ xcuserdata
 *.pyc
 *.orig
 *.ninja_log
+=======
+>>>>>>> e37083b79e6c89bee06d57a48c4b2c7ab66cfe14
